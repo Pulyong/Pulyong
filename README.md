@@ -22,6 +22,11 @@ I'm interested in Image Generative Model
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat&logo=Lightning&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat&logo=weightsandbiases&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit learn-FFBE00?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Conda Forge-000000?style=flat&logo=conda-forge&logoColor=white"/>
 </div>
 
 
