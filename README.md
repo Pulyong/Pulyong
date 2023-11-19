@@ -28,7 +28,7 @@ I'm interested in Image Generative Model
  <br>
  <br>
 
-<h1>🧑‍💻Stack🧑‍💻</h1>
+<h1>🧑‍💻 Stack 🧑‍💻</h1>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
@@ -39,7 +39,9 @@ I'm interested in Image Generative Model
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>  
 <br>
 <br>
-💻 With 💻
+
+**💻 With 💻**
+
 <br>
 <img src="https://img.shields.io/badge/MacOs-000000?style=flat&logo=MacOs&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
@@ -51,7 +53,14 @@ I'm interested in Image Generative Model
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 
 <br>
-<br>
+<br>  
+<h1>📈 My Stats 📈</h1>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulyong&layout=compact&theme=holi)  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpulyong%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+
 </div>
 
 
