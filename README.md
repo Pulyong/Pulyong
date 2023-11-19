@@ -28,7 +28,7 @@ I'm interested in Image Generative Model
  <br>
  <br>
 
-<h1>🧑‍💻 Stack 🧑‍💻</h1>
+<h1>💻 Stack 💻</h1>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
@@ -42,7 +42,7 @@ I'm interested in Image Generative Model
 
 **💻 With 💻**
 
-<br>
+
 <img src="https://img.shields.io/badge/MacOs-000000?style=flat&logo=MacOs&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
