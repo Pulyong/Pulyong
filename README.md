@@ -24,6 +24,8 @@ I'm interested in Image Generative Model
 <h1>📋 Experience 📋</h1>
 <br>
 
+ ✅[Korea Univ. CVLab Research Intern](https://kuaicv.com/) | 2024.01 ~ Present  
+ ✅[Tobigs](http://www.datamarket.kr/xe/page_SKdp53) | 2024.01 ~ Present  
  ✅[Google Machine Learning BootCamp 4th](https://developers-kr.googleblog.com/2023/07/machine-learning-bootcamp-fourth-season-2023_01905680144.html) | 2023.09 ~ 2023.11  
  ✅[BITAmin](https://cafe.naver.com/bitamin123) 9th | 2022.02 ~ 2023.02
  <br>
