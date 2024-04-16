@@ -18,8 +18,9 @@ I love DeepLearning specially Image Generative Model🤖
 <br>
 I'm interested in Image Generative Model  
 
-❤️❤️Diffusion Model  
-❤️Generative adversarial networks
+❤️Diffusion Model  
+❤️Generative adversarial networks  
+❤️Variational AutoEncoder  
 <br>
 <br>
 <h1>📋 Experience 📋</h1>
