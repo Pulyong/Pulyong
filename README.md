@@ -27,7 +27,8 @@ I'm interested in Image Generative Model
 <br>
 
 
- ✅[Korea Univ. MLVLab Research Intern](https://mlv.korea.ac.kr/) | 2024.05 ~ Present  
+ ✅[Korea Univ. AGILab Research Intern](https://agi.korea.ac.kr/) | 2024.11 ~ Present  
+ ✅[Korea Univ. MLVLab Research Intern](https://mlv.korea.ac.kr/) | 2024.05 ~ 2024.11  
  ✅[Tobigs](http://www.datamarket.kr/xe/page_SKdp53) | 2024.01 ~ Present  
  ✅[Korea Univ. AICVLab Research Intern](https://kuaicv.com/) | 2024.01 ~ 2024.05  
  ✅[Google Machine Learning BootCamp 4th](https://developers-kr.googleblog.com/2023/07/machine-learning-bootcamp-fourth-season-2023_01905680144.html) | 2023.09 ~ 2023.11  
