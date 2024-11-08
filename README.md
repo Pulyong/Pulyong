@@ -3,7 +3,7 @@
 <br>
 Hello, I'm PulYong from South Korea🇰🇷  
 
-I love DeepLearning specially Image Generative Model🤖  
+I love DeepLearning specially Generative Model🤖  
 <a href="https://rla020.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="https://pulyong.github.io"><img src="https://img.shields.io/badge/Portfolio Website-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 <a href="https://imaginary-arch-288.notion.site/Portfolio-d7433805e9124e5b9046e9e3a806e8ec?pvs=4"><img src="https://img.shields.io/badge/Portfolio Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
@@ -16,7 +16,7 @@ I love DeepLearning specially Image Generative Model🤖
 
 <h1>👀 Interest 👀</h1>  
 <br>
-I'm interested in Image Generative Model  
+I'm interested in Generative Model  
 
 ❤️Image,Video Generation w/ AutoRegressive Model  
 ❤️Diffusion Model  
