@@ -27,9 +27,10 @@ I'm interested in Generative Model
 <br>
 
 
- ✅[Korea Univ. AGILab Research Intern](https://agi.korea.ac.kr/) | 2024.11 ~ Present  
+ ✅[Korea Univ. AGILab Research Intern](https://agi.korea.ac.kr/) | 2025.03 ~ Present  
+ ✅[Korea Univ. AGILab Research Intern](https://agi.korea.ac.kr/) | 2024.11 ~ 2025.03  
  ✅[Korea Univ. MLVLab Research Intern](https://mlv.korea.ac.kr/) | 2024.05 ~ 2024.11  
- ✅[Tobigs](http://www.datamarket.kr/xe/page_SKdp53) | 2024.01 ~ Present  
+ ✅[Tobigs](http://www.datamarket.kr/xe/page_SKdp53) | 2024.01 ~ 2025.01  
  ✅[Korea Univ. AICVLab Research Intern](https://kuaicv.com/) | 2024.01 ~ 2024.05  
  ✅[Google Machine Learning BootCamp 4th](https://developers-kr.googleblog.com/2023/07/machine-learning-bootcamp-fourth-season-2023_01905680144.html) | 2023.09 ~ 2023.11  
  ✅[BITAmin](https://cafe.naver.com/bitamin123) 9th | 2022.02 ~ 2023.02
