@@ -27,7 +27,7 @@ I'm interested in Generative Model
 <br>
 
 
- ✅[Korea Univ. AGILab Research Intern](https://agi.korea.ac.kr/) | 2025.03 ~ Present  
+ ✅[Korea Univ. AGILab Integrated MS/Ph.D. Candidiate](https://agi.korea.ac.kr/) | 2025.03 ~ Present  
  ✅[Korea Univ. AGILab Research Intern](https://agi.korea.ac.kr/) | 2024.11 ~ 2025.03  
  ✅[Korea Univ. MLVLab Research Intern](https://mlv.korea.ac.kr/) | 2024.05 ~ 2024.11  
  ✅[Tobigs](http://www.datamarket.kr/xe/page_SKdp53) | 2024.01 ~ 2025.01  
