@@ -19,8 +19,8 @@ I love DeepLearning specially Generative Model🤖
 I'm interested in Generative Model  
 
 ❤️Image,Video Generation w/ AutoRegressive Model  
-❤️Diffusion Model  
-❤️Variational AutoEncoder  
+❤️Score based Model  
+❤️Unified Multimodal Language Model  
 <br>
 <br>
 <h1>📋 Experience 📋</h1>
