@@ -36,7 +36,7 @@ I'm interested in Generative Model
  ✅[BITAmin](https://cafe.naver.com/bitamin123) 9th | 2022.02 ~ 2023.02
  <br>
  <br>
-
+<!--!
 <h1>💻 Stack 💻</h1>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -65,11 +65,11 @@ I'm interested in Generative Model
 <br>  
 <h1>📈 My Stats 📈</h1>
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pulyong&show_icons=true&theme=dracula) -->
-<!--! [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulyong&layout=compact&theme=holi) -->
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pulyong&show_icons=true&theme=dracula)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulyong&layout=compact&theme=holi)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpulyong%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-
+-->
 
 </div>
 
