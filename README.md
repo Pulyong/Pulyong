@@ -6,7 +6,7 @@ Hello, I'm PulYong from South Korea🇰🇷
 I love DeepLearning specially Generative Model🤖  
 <a href="https://rla020.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="https://pulyong.github.io"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/%EC%9A%A9%EC%A7%84-%EA%B9%80-937875259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://rla020.tistory.com"/></a>
+<a href="https://www.linkedin.com/in/yongjin-kim-937875259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://rla020.tistory.com"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rladyd020@gmail.com)
 <br>
 <br>
