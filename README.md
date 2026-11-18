@@ -15,11 +15,10 @@ I love DeepLearning specially Generative Model🤖
 
 <h1>👀 Interest 👀</h1>  
 <br>
-I'm interested in Generative Model  
 
-❤️Image,Video Generation w/ AutoRegressive Model  
-❤️Score based Model  
-❤️Unified Multimodal Language Model  
+❤️ **MLLM Reasoning** | Self-verifying and iteratively refining outputs with inference-time computation  
+❤️ **Post-Training for MLLMs** | Enhancing reasoning and alignment via GRPO, DPO, and on-policy distillation  
+❤️ **Unified MLLMs** | Multimodal understanding and generation within a single model  
 <br>
 <br>
 <h1>📋 Experience 📋</h1>
